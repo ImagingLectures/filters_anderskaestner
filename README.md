@@ -1,2 +1,3 @@
-# filters_anderskaestner
-Assignment to work with image filters
+# MNT Image processing exercise 2
+Exercises for lecture 1
+- Exploring filters
